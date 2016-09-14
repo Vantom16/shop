@@ -1,0 +1,137 @@
+.thumbnail img {
+    max-height: 150px;
+}
+
+.thumbnail .description {
+    color: #7f7f7f;
+}
+
+.price {
+    font-weight:bold;
+    font-size: 16px;
+}
+
+#navigation{
+    background:gold;
+}
+
+.navbar-inverse {
+  background: #303f9f;
+  color: #ffffff;
+  margin: 0px auto;
+  padding: 0px 0px;
+}
+.navbar-inverse .navbar-nav > .active > a {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background: #1a237e;
+  color: #ffffff;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+  background-color: #303f9f;
+  color: #eeeeee;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+  color: #000000;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+  background-color: #303f9f;
+  color: #eeeeee;
+}
+address {
+  color: indianred;
+  font-size: 80%;
+  margin: 0px;
+  text-align: justify;
+}
+h4 {
+    text-align: justify;
+    color:blueviolet;
+}
+h3{
+    color:blueviolet;
+}
+body {
+  text-align:  center;
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+.row-footer {
+    margin: 0px auto;
+    padding: 20px 0px;
+    color:darkblue;
+    font-size: 1.4em;
+    text-align: center;
+   
+}
+.navbar navbar-default {
+  background: Orange;
+  color: #00008B;
+}
+.navbar navbar-default {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+}
+.navbar-inverse .navbar-nav > .active > a:hover {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+}
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+  
+}
+
+.navbar-inverse .navbar-nav > .open > a {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+}
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+  
+}
+.navbar-inverse .navbar-nav > .open > a:focus {
+  background: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+  background-color: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+  
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+  color: #000;
+  background-color: 0000FF;
+  font-size: 2 em;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu {
+  background-color: #FF8C00;
+  color: #000;
+  font-size: 2 em;
+}
